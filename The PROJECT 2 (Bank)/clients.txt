@@ -1,4 +1,16 @@
 CP001
 Bill Gates
 windows
-4000000
+5000000
+CP002
+The Chosen One
+orange
+500000
+CP003
+TimGFM
+admin
+100000
+CP004
+Foude
+teacher
+500000
